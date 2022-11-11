@@ -11,7 +11,7 @@ Jinja2==2.10.1
 Mako==1.0.14
 MarkupSafe==1.1.1
 py4j==0.10.7
-pyspark==2.4.3
+pyspark==3.2.2
 python-dateutil==2.8.0
 python-editor==1.0.4
 requests==2.22.0
